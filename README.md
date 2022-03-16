@@ -1,6 +1,6 @@
 # personal_expenses_app
 
-A new Flutter application.
+This app helps you track your daily and weekly expenses
 
 ## Getting Started
 
